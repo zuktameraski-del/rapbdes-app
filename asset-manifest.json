@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rapbdes-app/static/js/main.ff01765b.js",
+    "main.js": "/rapbdes-app/static/js/main.df825fd8.js",
     "index.html": "/rapbdes-app/index.html",
-    "main.ff01765b.js.map": "/rapbdes-app/static/js/main.ff01765b.js.map"
+    "main.df825fd8.js.map": "/rapbdes-app/static/js/main.df825fd8.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff01765b.js"
+    "static/js/main.df825fd8.js"
   ]
 }
